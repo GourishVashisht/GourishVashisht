@@ -30,7 +30,7 @@
 <img align="left" alt="Spring" width="26px" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" />
 <img align="left" alt="Angular" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Node.js" width="26px" src="https://developers.redhat.com/blog/wp-content/uploads/2020/05/nodejs-new-pantone-black.png" />
 <img align="left" alt="MySQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
