@@ -1,5 +1,7 @@
 ### Hi there, I'm Gourish Vashisht [👋](https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308)
 
+<br />
+
 ## I'm a Full Stack Developer with ample of Technologies under my toolkit!!
 
 - 🌱 I'm currently working on Angular-11 and Java-8, and along with it, I love to explore new Technologies.
@@ -33,10 +35,10 @@
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Docker" width="26px" src="https://miro.medium.com/max/336/0*c3-62fzCNsXZtvg5.png" />
-<img align="left" alt="Jenkins" width="26px" src="https://www.crowdstrike.com/blog/wp-content/uploads/2018/10/Jenkins-blog-image.jpg" />
-<img align="left" alt="ActiveMQ" width="26px" src="https://miro.medium.com/max/640/1*azqljLg33ikFspnKEX_I2Q.png" />
-<img align="left" alt="Apache Camel" width="26px" src="https://brandos0.files.wordpress.com/2020/06/apache_camel.png" />
+<img align="left" alt="Docker" width="32px" src="https://miro.medium.com/max/336/0*c3-62fzCNsXZtvg5.png" />
+<img align="left" alt="Jenkins" width="32px" src="https://www.crowdstrike.com/blog/wp-content/uploads/2018/10/Jenkins-blog-image.jpg" />
+<img align="left" alt="ActiveMQ" width="32px" src="https://miro.medium.com/max/640/1*azqljLg33ikFspnKEX_I2Q.png" />
+<img align="left" alt="Apache Camel" width="32px" src="https://brandos0.files.wordpress.com/2020/06/apache_camel.png" />
 
 <br />
 <br />
