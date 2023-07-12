@@ -11,7 +11,7 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/gourish-vashisht/">
-    <img align="left" alt="G R | Linkedin" width="24px" src="https://image.flaticon.com/icons/png/512/61/61109.png" />
+    <img align="left" alt="G R | Linkedin" width="24px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" />
   </a>
   <a href="https://www.instagram.com/gourish.vashisht/">
     <img align="left" alt="G R | Instagram" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
@@ -27,7 +27,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Java 8" width="26px" src="https://icon-library.com/images/java-icon-image/java-icon-image-0.jpg" />
-<img align="left" alt="Spring" width="26px" src="https://miro.medium.com/max/624/1*dwa1SCG85BAzQttURVUvrA.png" />
+<img align="left" alt="Spring Boot" width="26px" src="https://www.pngaaa.com/detail/2459546" />
 <img align="left" alt="Angular" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://developers.redhat.com/blog/wp-content/uploads/2020/05/nodejs-new-pantone-black.png" />
@@ -39,6 +39,7 @@
 <img align="left" alt="Jenkins" width="32px" src="https://www.crowdstrike.com/blog/wp-content/uploads/2018/10/Jenkins-blog-image.jpg" />
 <img align="left" alt="ActiveMQ" width="32px" src="https://miro.medium.com/max/640/1*azqljLg33ikFspnKEX_I2Q.png" />
 <img align="left" alt="Apache Camel" width="32px" src="https://brandos0.files.wordpress.com/2020/06/apache_camel.png" />
+<img align="left" alt="Google Cloud Platform" width="32px" src="https://www.logo.wine/logo/Google_Cloud_Platform" />
 
 <br />
 <br />
