@@ -11,10 +11,10 @@
 ### Connect with me:
 
   <a href="https://www.linkedin.com/in/gourish-vashisht/">
-    <img align="left" alt="G R | Linkedin" width="24px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" />
+    <img align="left" alt="G R | Linkedin" width="32px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" />
   </a>
   <a href="mailto:gourish.gv@gmail.com">
-    <img align="left" alt="G R | Gmail" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" />
+    <img align="left" alt="G R | Gmail" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" />
   </a>
 
 <br />
